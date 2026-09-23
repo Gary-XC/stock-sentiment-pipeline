@@ -885,11 +885,3 @@ This project was built to demonstrate practical experience across the modern dat
 ```
 
 **The goal is not simply to process stock data—it is to demonstrate the ability to design, build, orchestrate, and analyze a complete data pipeline from ingestion to insight.**
-
----
-
-# ⭐ Author
-
-Built as a portfolio project demonstrating practical skills in **Data Engineering, Data Science, Streaming Analytics, NLP, and Cloud-Oriented Data Architecture**.
-
-If you found this project interesting, feel free to explore the implementation and follow the evolution of the project through its future enhancements.
